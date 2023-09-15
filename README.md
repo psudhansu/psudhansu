@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)]
+![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 <h1 align="center">Hi 👋, I'm Sudhansu Nayak</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
